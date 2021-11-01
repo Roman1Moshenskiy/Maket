@@ -1,0 +1,40 @@
+header {
+    background-image: url("photo.png");
+    width: 	1600px;
+    height: 770px;
+display:flex;
+flex-direction: column;}
+    .head {
+        display: flex;
+        width: 1141px;
+        height: 23px;
+        margin-top: 40px;
+        margin-left:229px ;
+        margin-right:230px ;}
+    .Welcome{margin-top: 260px;
+  margin-left: 568px;
+  width: 581px;
+  height: 87px;
+    }
+.bottom{
+    text-decoration: none;
+    color: thistle;
+    text-align: center;
+    width: 181px;
+    height: 54px;
+    margin-top: 49px;
+    margin-left: 650px;
+    
+    border: 3px solid rgb(153, 146, 146);}
+
+.head_buttom{
+margin-right: 10px;
+color: rgb(255, 255, 255);}
+.startup {
+    color: rgb(255, 255, 255);
+}
+
+
+    
+
+    
